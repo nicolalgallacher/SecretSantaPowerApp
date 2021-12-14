@@ -1,6 +1,6 @@
 ![Icon
 
-Description automatically generated](file:///C:/Users/nigallac/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)Secret Santa App
+Description automatically generated](file:///Images/santa.png)Secret Santa App
 ============================================================================================================================================
 
 Overview
