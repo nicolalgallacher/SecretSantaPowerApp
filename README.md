@@ -1,6 +1,7 @@
 
+<p align="center">
 <img src="Images/santa.png" alt="Santa Cartoon Drawing" width="200" style="float: right; margin-right: 10px;"/>
-
+</p>
 
 Secret Santa App
 ============================================================================================================================================
@@ -41,4 +42,6 @@ o TODO: You can potentially draw yourself and this is why the re-draw button is 
 
 - Shows a list of everyone who has registered to take part so far
 
-- ![](file:///C:/Users/nigallac/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)Used the Office365Users Connector to check against email to show users profile picture in the list of people
+<p align="center">
+  <img src="Images/elves.jpg" alt="Dancing Elves" width="700" />
+</p>
