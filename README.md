@@ -1,6 +1,8 @@
-![Icon
 
-Description automatically generated](file:///Images/santa.png)Secret Santa App
+<img src="Images/santa.png" alt="Santa Cartoon Drawing" width="200" style="float: right; margin-right: 10px;"/>
+
+
+Secret Santa App
 ============================================================================================================================================
 
 Overview
