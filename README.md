@@ -29,7 +29,8 @@ The App has 3 main sections
 - Then the tick button is selected the inputs from the form at wrote into the Excel Table
 
 - TODO: Check to see if the user is already registered so they can't register twice
-
+- TODO: Hide address information & who has who from the spreadsheet so the values are hidden until displayed in the app? 
+- 
 **Reveal / Draw**
 
 - Using the Random Logic in the Blog post above will draw someone to buy a gift for
@@ -41,6 +42,13 @@ o TODO: You can potentially draw yourself and this is why the re-draw button is 
 **Participants**
 
 - Shows a list of everyone who has registered to take part so far
+
+How to Import
+-------
+- Sign in to your PowerApp Environment > Apps > Import Canvas App > Upload the zip included in the repo > Import 
+
+- Once App is Imported Edit go to: Data > Add Data > Connectors > Excel > OneDrive > Select SecretSanta2021_Template.xlsx included in this repo > Select Table 1 > Connect > Insert Auto Generated ID > Create
+
 
 <p align="center">
   <img src="Images/elves.jpg" alt="Dancing Elves" width="700" />
