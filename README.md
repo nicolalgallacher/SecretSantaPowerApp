@@ -30,12 +30,12 @@ The App has 3 main sections
 
 - TODO: Check to see if the user is already registered so they can't register twice
 - TODO: Hide address information & who has who from the spreadsheet so the values are hidden until displayed in the app? 
-- 
+
 **Reveal / Draw**
 
 - Using the Random Logic in the Blog post above will draw someone to buy a gift for
 
-o TODO: You can potentially draw yourself and this is why the re-draw button is included so room to improve the logic used here
+    o TODO: You can potentially draw yourself and this is why the re-draw button is included so room to improve the logic used here
 
 - If you have already drew someone to buy for the next time you select this page you will be reminded who you are buying for rather than going back in to draw someone else
 
